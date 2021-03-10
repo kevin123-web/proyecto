@@ -1,0 +1,70 @@
+    body {
+    background-image: url(https://images5.alphacoders.com/885/thumb-1920-885377.png);
+    }
+   /* --------------------------------------------------------------------------------- */ 
+    h1{
+    font-family: 'Times New Roman', Times, serif ;
+    font-size: 33 px; 
+    color: antiquewhite ;
+    }
+   /* --------------------------------------------------------------------------------- */ 
+    h2 {
+        font-family: 'Times New Roman', Times, serif ;
+        font-size: 55px; 
+        color: rgb(64, 161, 51);
+    }   
+    /* --------------------------------------------------------------------------------- */   
+    p {
+        font-family: 'Times New Roman', Times, serif ;
+        font-size: 20px; 
+        /*color: antiquewhite ; */
+        color: rgb(255, 255, 255);
+        }
+    /* --------------------------------------------------------------------------------- */    
+    li
+        {
+        font-family: 'Times New Roman', Times, serif ;
+        font-size: 19px; 
+        color: antiquewhite ; 
+        }
+    /* --------------------------------------------------------------------------------- */  
+    
+        .color {
+        border-color: rgb(43, 209, 27);
+        border-width: 5px;
+        border-style: solid; 
+        color: white;
+        background-color: rgb(36, 45, 119);
+        padding: 5px;
+        margin: 35px;
+        border-radius: 40px;
+        background-image: url(https://static.vecteezy.com/system/resources/previews/000/570/057/non_2x/vector-green-geometric-background.jpg);
+        }
+    /* --------------------------------------------------------------------------------- */  
+        .colorc {
+        border-color: rgb(10, 39, 21);
+        border-radius:  10px;
+        border-width: 4px;
+        border-style: solid; 
+        color: white;
+        padding: 5px;
+        margin: 27px;
+        font-family: 'Times New Roman', Times, serif ;
+        font-size: 24px;
+        background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSLkyMN7F10BSGD28e7GrSYnmu27plR9CkElQ&usqp=CAU);
+        text-decoration:none;
+        }
+
+              
+          .nav li ul{
+              display:none;
+              position: absolute;
+              min-width: 140px;
+
+          }
+
+          .nav li:hover > ul {
+              display: block;
+          }
+      
+        

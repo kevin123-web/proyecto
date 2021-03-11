@@ -7,4 +7,8 @@ proyecto integratador
 //juego flappy dar click y pasar los diferentes obstaculos
 
 
-
+Pasos para que funcione el proyecto exitosamente:
+es un codigo totalmente funcional 
+1.- descargar la carpeta login_prueba
+2.- tener un servidor local como xampp y crear una base de datos en el my admin
+3.- una vez creada la base de datos la pagina y juegos y login correran totalmente 
